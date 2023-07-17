@@ -1,0 +1,2 @@
+# ip地址查询
+url2 = 'https://sp1.baidu.com/8aQDcjqpAAV3otqbppnN2DJv/api.php?co=&t=1678933754631&ie=utf8&oe=gbk&cb=op_aladdin_callback&format=json&tn=baidu&cb=jQuery1102015838231268295622_1678933687877&_=1678933687880'
